@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Design Sprint 1
+### Design Sprint 5
 
 #### Objectives 
 You and your group will spend Tuesday (and whatever additional time you feel necessary between Tuesday and Thursday) preparing your design ideas, which you will then present to the instructor and the rest of the class on Thursday.
